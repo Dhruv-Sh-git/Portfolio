@@ -9,7 +9,6 @@ const skills = [
   { name: "JavaScript", level: 4.5, category: "languages" },
   // Frontend
   { name: "HTML/CSS", level: 4.5, category: "frontend" },
-  { name: "JavaScript", level: 4.5, category: "frontend" },
   { name: "React", level: 4.6, category: "frontend" },
   { name: "TypeScript", level: 4.2, category: "frontend" },
   { name: "Tailwind CSS", level: 4.6, category: "frontend" },
@@ -20,6 +19,7 @@ const skills = [
   { name: "Express.js", level: 4.5, category: "backend" },
   { name: "MongoDB", level: 4.8, category: "backend" },
   { name: "PostgreSQL", level: 4.1, category: "backend" },
+  { name: "Prisma", level: 4.2, category: "backend" },
   { name: "REST APIs", level: 4.8, category: "backend" },
   { name: "Firebase", level: 4.8, category: "backend" },
   { name: "Flask", level: 4.4, category: "backend" },
