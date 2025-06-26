@@ -30,11 +30,13 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/14lmgr1g5bod8eNttaiUOYwHkjzBX88pb/view?usp=drivesdk "
-                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
-              >
-                Download CV
+              href="https://drive.google.com/uc?export=download&id=14lmgr1g5bod8eNttaiUOYwHkjzBX88pb"
+              className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+              target="_blank"
+              rel="noopener noreferrer">
+              Download CV
               </a>
+
             </div>
           </div>
 
