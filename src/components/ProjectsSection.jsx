@@ -21,11 +21,11 @@ const projects = [
   },
   {
     id: 3,
-    title: "Portfolio Website",
+    title: "ChefGPT",
     description:
-      "This is my personal portfolio website, built with React and Tailwind CSS. It showcases my skills, projects, and experience in a modern and responsive design.",
+      "an AI-powered recipe generator that transforms your available ingredients into step-by-step meal instructions using Google’s Gemini model and Genkit! Beyond the tech, ChefGPT serves a real-world purpose: reducing food waste. By helping people cook with what they already have, it turns overlooked ingredients into delicious meals — saving money and the planet.",
     image: "/projects/project3.png",
-    tags: ["React","TailwindCSS"],
+    tags: ["Next.js","TailwindCSS","TypeScript","Shadcn UI","Genkit"],
   },
 ];
 

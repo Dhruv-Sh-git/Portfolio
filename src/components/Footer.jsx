@@ -5,8 +5,6 @@ export const Footer = () => {
     <footer className="py-12 px-4 bg-card relative border-t border-border mt-12 pt-8">
       <div className="container mx-auto max-w-6xl flex flex-col md:flex-row justify-between items-center space-y-8 md:space-y-0">
         <div className="text-bold text-blue-950 text-4xl">{"</Dhruv Shaswat>"}</div>
-        <div className=" text-blue-950">CV will be uploaded shortly!!</div>
-
         {/* Connect With Me section */}
         <div className="text-center md:text-left">
           <h4 className="font-medium mb-2">Connect With Me :</h4>
