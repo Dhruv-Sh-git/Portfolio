@@ -26,6 +26,7 @@ const projects = [
       "an AI-powered recipe generator that transforms your available ingredients into step-by-step meal instructions using Google’s Gemini model and Genkit! Beyond the tech, ChefGPT serves a real-world purpose: reducing food waste. By helping people cook with what they already have, it turns overlooked ingredients into delicious meals — saving money and the planet.",
     image: "/projects/project3.png",
     tags: ["Next.js","TailwindCSS","TypeScript","Shadcn UI","Genkit"],
+    githubUrl: "#https://github.com/Dhruv-Sh-git/Portfolio",
   },
 ];
 
