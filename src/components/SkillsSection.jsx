@@ -35,6 +35,9 @@ const skills = [
   { name: "Arduino", level: 4.6, category: "Robotics" },
   { name: "OpenCV", level: 4.3, category: "Robotics" },
   { name: "IOT", level: 4.2, category: "Robotics" },
+  { name:  "ROS", level: 4.1, category: "Robotics" },
+  { name: "Gazebo", level: 4.0, category: "Robotics" },
+  {name: "Blender", level: 4.0, category: "Robotics" },
   { name: "Raspberry Pi", level: 4.5, category: "Robotics" },
 ];
 
